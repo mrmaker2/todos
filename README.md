@@ -6,7 +6,7 @@ To create a new project based on this template using [degit](https://github.com/
 
 ```bash
 git clone https://github.com/mrmaker2/todos.git
-cd svelte-app
+cd todos
 ```
 
 *Note that you will need to have [Node.js](https://nodejs.org) installed.*
